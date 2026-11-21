@@ -34,7 +34,7 @@
 (def APP "appview/etzhayyim-wasm-crowdfunding-cf0und1n")
 
 (def claims
-  {:tracked-files 29
+  {:tracked-files 30
    :inherited-bytes 7069           ; the 4 inherited metadata files, still byte-identical
    :svelte-artifacts 0             ; no .svelte / svelte.config / svelte-dir file survives
    :sveltekit-compat-flags 0       ; nodejs_compat / nodejs_als were adapter-cloudflare's
